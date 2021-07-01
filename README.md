@@ -1,4 +1,9 @@
-### Hi there 👋
+### Maria Dziuba
+
+<p align=left> <img src=https://komarev.com/ghpvc/?username=MariaDziuba alt=MariaDziuba /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=MariaDziuba&show_icons=true&include_all_commits=true)](https://github.com/MariaDziuba/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaDziuba&layout=compact&langs_count=10)](https://github.com/MariaDziuba/github-readme-stats)
 
 <!--
 **MariaDziuba/MariaDziuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
