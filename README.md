@@ -1,9 +1,21 @@
-### Maria Dziuba
+### Maria Dziuba - Data Scientist
 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=MariaDziuba alt=MariaDziuba /> </p>
+Hi there 👋 I want to tell you something about myself:
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=MariaDziuba&show_icons=true&include_all_commits=true)](https://github.com/MariaDziuba/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaDziuba&layout=compact&langs_count=10)](https://github.com/MariaDziuba/github-readme-stats)
+🎓 Third-year ITMO University student (BSc of Applied Mathematics and Computer Science)
+
+👨‍💻 Languages: Python, Java, C++, Clojure, Prolog, JavaScript
+    
+💻 Technologies: SQL, Pandas, NumPy, Scikit-learn, PyTorch, Git, Bash
+
+📫 How to reach me: [Telegram](http://www.t.me/m\_dzb)
+
+⚡ CV: click
+
+<!-- [![Github stats](https://github-readme-stats.vercel.app/api?username=MariaDziuba&show_icons=true&include_all_commits=true)](https://github.com/MariaDziuba/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaDziuba&layout=compact&langs_count=10)](https://github.com/MariaDziuba/github-readme-stats) -->
+
+<!-- <p align=left> <img src=https://komarev.com/ghpvc/?username=MariaDziuba alt=MariaDziuba /> </p> -->
 
 <!--
 **MariaDziuba/MariaDziuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
