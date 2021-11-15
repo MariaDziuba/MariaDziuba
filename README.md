@@ -1,8 +1,10 @@
-### Maria Dziuba - Data Scientist
+### Maria Dziuba - ML Researcher 
 
 Hi there 👋 I want to tell you something about myself:
 
 🎓 Third-year ITMO University student (BSc of Applied Mathematics and Computer Science)
+
+🔭 Intern at Huawei RRI
 
 👨‍💻 Languages: Python, Java, C++, Clojure, Prolog, JavaScript
     
