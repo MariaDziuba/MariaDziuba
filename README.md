@@ -2,9 +2,9 @@
 
 Hi there 👋 I want to tell you something about myself:
 
-🎓 Third-year ITMO University student (BSc of Applied Mathematics and Computer Science)
+🎓 Graduated from ITMO University (BSc of Applied Mathematics and Computer Science)
 
-🔭 Intern at Huawei RRI
+🎓 First-year student of ITMO University (MSc of Applied Mathematics and Computer Science, specialization: Deep Learning and Generative Artificial Intelligence)
 
 👨‍💻 Languages: Python, Java, C++, Clojure, Prolog, JavaScript
     
